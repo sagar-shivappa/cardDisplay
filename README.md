@@ -1,2 +1,2 @@
 # cardDisplay
-Netify :https://boring-noether-addb71.netlify.app
+Netify :https://nostalgic-lichterman-a47cd0.netlify.app
